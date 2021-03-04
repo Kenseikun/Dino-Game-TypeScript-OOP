@@ -1,8 +1,8 @@
 # Dino-Game-TypeScript-OOP
 
-## To install use
+## To install:
 npm i
-## To run
+## To run:
 npm start
 
 ## Rules

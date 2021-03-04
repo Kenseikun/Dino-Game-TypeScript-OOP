@@ -9,11 +9,11 @@ npm start
 Jump above all obstacles.
 
 ### Controls
-W - Jump
-Long press W - High jump
-A - Left step
-D - Right step
-S - Fast falling after jump
+W - Jump <br/>
+Long press W - High jump <br/>
+A - Left step <br/>
+D - Right step <br/>
+S - Fast falling after jump <br/>
 
 # Good luck & Have fun :)
 

@@ -15,6 +15,8 @@ A - Left step <br/>
 D - Right step <br/>
 S - Fast falling after jump <br/>
 
+
+<img src="./dinoScreen.png" height="300">
 # Good luck & Have fun :)
 
 -- Type Script with OOP project --
